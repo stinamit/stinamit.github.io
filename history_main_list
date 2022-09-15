@@ -1,0 +1,14 @@
+{
+    "Table": [
+        {
+            "CropName": "Beetroot",
+            "TransactionQty": 20893.88,
+            "Amount": 24027.71
+        },
+        {
+            "CropName": "Tomato Cherry Red",
+            "TransactionQty": 2900.48,
+            "Amount": 18562.96
+        }
+    ]
+}
